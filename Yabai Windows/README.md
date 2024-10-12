@@ -1,5 +1,7 @@
 # Yabai Windows Alfred Workflow
 
+[Download the workflow](https://github.com/jjdiazo1/AlfredWorkflows/blob/fd07c815b7c624da76c680563989aa1c21563e14/Yabai%20Windows/Yabai%20Windows.alfredworkflow) 
+
 This Alfred workflow is designed to improve your window management experience using **Yabai**, a tiling window manager for macOS. With this workflow, you can quickly move and organize windows across different spaces (virtual desktops) using simple hotkeys.
 
 <img width="759" alt="YABB" src="https://github.com/user-attachments/assets/6e4c3261-5161-4941-9f39-65c70066a686">
