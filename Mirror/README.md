@@ -2,6 +2,12 @@
 
 This Alfred workflow automates the process of mirroring your Mac's display to another device, such as an iPad, by interacting with macOS’s **Control Center** using AppleScript. With a simple keyword trigger, you can quickly initiate screen mirroring to your device without manually navigating through the Control Center.
 
+> Query
+
+<img width="646" alt="Screenshot 2024-10-12 at 4 14 21 PM" src="https://github.com/user-attachments/assets/aa7bb975-2f3f-4832-943b-a7c2f65c6198">
+
+> Result
+
 <img width="299" alt="Screenshot 2024-10-12 at 4 05 26 PM" src="https://github.com/user-attachments/assets/67c610d8-ff65-4a8f-8aec-59cce3837dbb">
 
 [Download the workflow file](https://github.com/jjdiazo1/AlfredWorkflows/blob/d0ba3b2c0d0d36a485e371ef5e61e2f68376c154/Mirror/Mirror.alfredworkflow)
