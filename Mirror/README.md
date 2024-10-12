@@ -46,7 +46,7 @@ If you need to change the device you're mirroring to (in case you have multiple 
 
 ### Example Customization via Apple Script
 
-If you want to mirror to a different device (if it’s the second one in the list), go to the apple script in the workflow (there's also the file for reference in this same directory) 
+If you want to mirror to a different device (if it’s the second one in the list), go to the apple script in the workflow (there's also the [file](https://github.com/jjdiazo1/AlfredWorkflows/blob/ee61a673f25f70158f6589f8301476097fe1fa93/Mirror/Apple%20Script.scpt) for reference in this same directory) 
 
 <img width="933" alt="Screenshot 2024-10-12 at 4 10 35 PM" src="https://github.com/user-attachments/assets/c2b20653-23e1-4186-8597-a2b5e4c1f657">
 
