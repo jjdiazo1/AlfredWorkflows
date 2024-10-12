@@ -1,5 +1,7 @@
 # Kaomoji Search Workflow
 
+[Download the workflow](https://github.com/jjdiazo1/AlfredWorkflows/blob/fa1e66cae19154af6db56d5a8d6272d780c4ea41/Kaomoji/Kaomoji.alfredworkflow) 
+
 This Alfred workflow allows you to search through a collection of over **100+ kaomojis** and put them directly to your cursor is.
 
 <img width="646" alt="Screenshot 2024-10-12 at 4 37 52 PM" src="https://github.com/user-attachments/assets/0cc05cf3-57eb-400b-b92a-2d8ba87dc457">
