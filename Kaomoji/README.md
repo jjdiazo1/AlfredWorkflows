@@ -1,12 +1,14 @@
 # Kaomoji Search Workflow
 
-This Alfred workflow allows you to search through a collection of over 100+ kaomojis and copy them directly to your clipboard.
+This Alfred workflow allows you to search through a collection of over 100+ kaomojis and put them directly to your cursor is.
+
+<img width="646" alt="Screenshot 2024-10-12 at 4 37 52 PM" src="https://github.com/user-attachments/assets/0cc05cf3-57eb-400b-b92a-2d8ba87dc457">
 
 ## Keyword
 
 - `k {query}`
 
-Start typing `k` followed by a search query (e.g., "happy", "sad", etc.) to filter through the available kaomojis.
+Start typing `k` followed by a search query (e.g., "happy", "sad", etc.) to filter through the available kaomojis
 
 ## How to Use
 
