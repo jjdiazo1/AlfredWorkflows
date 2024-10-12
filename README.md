@@ -12,22 +12,18 @@ You can find even more in the [alfred workflows gallery](https://www.alfredapp.c
 ### 1. **Screen Mirroring Workflow**
 - **Description**: This workflow automates the process of mirroring your Mac's display to another device (e.g., an iPad) by interacting with macOS’s Control Center. You can quickly initiate screen mirroring without navigating through the UI.
 - **Keyword**: `mirror`
-- [Download the Screen Mirroring Workflow](#)
 
 ### 2. **Kaomoji Search Workflow**
 - **Description**: Search through a collection of over 100+ kaomojis and copy the selected one to your clipboard. Ideal for quick use of kaomojis in messages or documents.
 - **Keyword**: `k {query}`
-- [Download the Kaomoji Search Workflow](#)
 
 ### 3. **Calendar Jump Workflow**
 - **Description**: Jump to a specific day in the macOS Calendar app by typing the day of the week (e.g., "Monday", "Tuesday"). The workflow calculates the date and opens the Calendar app on that day.
 - **Keyword**: Type the day of the week (e.g., `monday`, `tuesday`)
-- [Download the Calendar Jump Workflow](#)
 
-### 4. **Agenda Workflow**
-- **Description**: This workflow checks your agenda for the day. Simply type the keyword and it will fetch your agenda, making it easier to stay on top of your daily schedule without opening the Calendar app manually.
-- **Keyword**: `agenda`
-- [Download the Agenda Workflow](#)
+### 4. **Yabai wWindows Workflow**
+- **Description**: This workflow makes it easier to use windows tiling with `Yabai` adding shortcuts to run actions.
+- **Keyword**: `there's none` It relies in keyboard shortcuts
 
 ---
 
