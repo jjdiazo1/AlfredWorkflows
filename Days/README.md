@@ -1,4 +1,4 @@
-# Calendar Jump Alfred Workflow
+# Calendar Jump Alfred Workflow (Days)
 
 [Download the workflow](#) 
 
