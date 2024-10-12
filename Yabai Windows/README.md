@@ -25,6 +25,10 @@ This workflow provides several hotkeys for quickly managing windows and spaces u
 
 ### Hotkeys and Commands
 
+You can check them and change them by double clicking the scripts at the right of each command in the alfred workflow editor.
+
+<img width="1782" alt="Screenshot 2024-10-12 at 4 21 01 PM" src="https://github.com/user-attachments/assets/e559bf59-d7cf-4e3e-afce-b1b5fab4daa6">
+
 #### Move Window to Space 1
 - **Hotkey**: `Ctrl + Shift + 1`
 - **Command**: `yabai -m window --space 1`
