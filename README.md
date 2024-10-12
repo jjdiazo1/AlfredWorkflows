@@ -1,6 +1,6 @@
 # Alfred Workflows
 
-This repository contains a collection of custom workflows for [Alfred](https://www.alfredapp.com/), a productivity application for macOS. Alfred allows users to automate tasks, search the web or local files, manage their clipboard history, and much more, all through customizable workflows. With these workflows, you can enhance your efficiency and streamline everyday tasks.
+This repository contains a collection of custom workflows for [Alfred](https://www.alfredapp.com/), a productivity application for macOS. Alfred allows users to automate tasks, search the web or local files, manage their clipboard history, and much more, all through customizable workflows that come with the Alfred's Powerpack. With these workflows, you can enhance your efficiency and streamline everyday tasks.
 
 ![workflow-canvas](https://github.com/user-attachments/assets/47e393aa-c257-4e19-96e6-2d6424c45b63)
 
