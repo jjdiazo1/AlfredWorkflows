@@ -48,7 +48,7 @@ If you need to change the device you're mirroring to (in case you have multiple 
 
 If you want to mirror to a different device (if it’s the second one in the list), go to the apple script in the workflow (there's also the file for reference in this same directory) 
 
-<img width="464" alt="Screenshot 2024-10-12 at 4 08 34 PM" src="https://github.com/user-attachments/assets/705ecae0-0393-42b3-b845-00f9b8eaeec2">
+<img width="933" alt="Screenshot 2024-10-12 at 4 10 35 PM" src="https://github.com/user-attachments/assets/c2b20653-23e1-4186-8597-a2b5e4c1f657">
 
 Then change the line:
 
