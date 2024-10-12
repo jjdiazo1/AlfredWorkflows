@@ -20,6 +20,32 @@ Start typing `k` followed by a search query (e.g., "happy", "sad", etc.) to filt
 
 Type `k happy` to find kaomojis like `٩(◕‿◕｡)۶`. Press `Enter` and it will directly be put wherever your cursor is.
 
+## To add more Kaomojis
+
+Refer to the [Script.py](https://github.com/jjdiazo1/AlfredWorkflows/blob/290509c9cad6b6e46d658427a50f276889e060ac/Kaomoji/Script.py) file and put them in this line, in the dictionary. 
+
+```python
+# A list of kaomojis with their descriptions
+kaomojis = [
+    {"face": "( ͡° ͜ʖ ͡°)", "name": "Lenny Face"},
+    {"face": "¯\\_(ツ)_/¯", "name": "Shrug"},
+    {"face": "(╯°□°）╯︵ ┻━┻", "name": "Table Flip"},
+    {"face": "(•_•)", "name": "Cool Guy"},
+    {"face": "٩(◕‿◕｡)۶", "name": "Happy Dance"},
+    # Add more kaomojis as needed
+]
+```
+
+Then copy that modified file, go to the alfred workflow and click on the Script Filter
+
+<img width="301" alt="Screenshot 2024-10-12 at 4 40 51 PM" src="https://github.com/user-attachments/assets/23de9b04-a886-4995-b222-681a2efb78b4">
+
+Then paste it in the script (the highlighted area)
+
+<img width="916" alt="Screenshot 2024-10-12 at 4 41 45 PM" src="https://github.com/user-attachments/assets/3110ba02-e47a-46d6-83af-301c0103ba6b">
+
+Next time you can edit directly there, but I find it better having the script file and editing in an IDE.
+
 ---
 
 ### Installation
