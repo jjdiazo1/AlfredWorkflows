@@ -45,5 +45,7 @@ When you type a day of the week into Alfred, the script will open the Calendar a
 
 ## Customization
 
-If you need to modify the AppleScript to adjust which view or calendar opens by default (e.g., month view or specific calendars), you can tweak the script to fit your preferences.
+If you need to modify the AppleScript to adjust which view or calendar opens by default (e.g., month view or specific calendars), you can tweak the [script](https://github.com/jjdiazo1/AlfredWorkflows/blob/5b7f18b64b340efd52f32565759e83834801f90c/Days/Apple%20Script.scpt) to fit your preferences.
+
+<img width="942" alt="Screenshot 2024-10-12 at 4 46 32 PM" src="https://github.com/user-attachments/assets/6f9dd245-da6c-4ec4-babc-a94b945020ad">
 
