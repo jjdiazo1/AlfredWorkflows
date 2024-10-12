@@ -16,4 +16,6 @@ You can find even more in the [alfred workflows gallery](https://www.alfredapp.c
 
 Each workflow has its own directory with a specific README file that explains its purpose, keyword, and how it works. Explore the directories to find more information.
 
+<img width="618" alt="Screenshot 2024-10-12 at 3 46 00 PM" src="https://github.com/user-attachments/assets/14e5961b-d04a-4568-80a7-48de21655423">
+
 Enjoy your new workflows, and happy productivity!
