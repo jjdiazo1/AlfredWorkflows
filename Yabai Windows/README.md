@@ -5,10 +5,10 @@ This Alfred workflow is designed to improve your window management experience us
 ## Prerequisites
 
 ### What is Yabai?
-[Yabai](https://github.com/koekeishiya/yabai) is a powerful window manager for macOS that enables you to control and manipulate windows on your screen through keyboard shortcuts and scripts. It uses the concept of *spaces* (virtual desktops) and tiling window management to help users quickly and efficiently organize their workspace.
+[Yabai](https://github.com/koekeishiya/yabai) is a powerful window manager for macOS that enables you to control and manipulate windows on your screen through keyboard shortcuts and scripts. It uses the concept of *spaces* (virtual desktops) and tiling window management to help users quickly and efficiently organize their workspace. 
 
 ### Requirements:
-- **Yabai** must be installed and configured on your system. Follow the instructions [here](https://github.com/koekeishiya/yabai/wiki/Installing-yabai) to set it up.
+- **Yabai** must be installed and configured on your system. Follow the instructions [here](https://github.com/koekeishiya/yabai/wiki/Installing-yabai) to set it up. I also recommend [this tutorial](https://www.josean.com/posts/yabai-setup) by Josean Martinez.
 - **Alfred** must be installed along with the Powerpack, which is required to use workflows.
 - **Scripting permissions** must be enabled for Alfred to allow it to run the `yabai` commands.
 
@@ -18,8 +18,7 @@ This workflow provides several hotkeys for quickly managing windows and spaces u
 
 ## How to Use
 
-1. Install Yabai and ensure it's running. I recommend [this tutorial](https://www.josean.com/posts/yabai-setup
-) by Josean Martinez.
+1. Install Yabai and ensure it's running.
 2. Download and import the Alfred workflow into Alfred.
 3. Use the hotkeys listed above to move windows between spaces or navigate between windows.
 
