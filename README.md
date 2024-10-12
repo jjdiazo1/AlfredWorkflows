@@ -21,7 +21,7 @@ You can find even more in the [alfred workflows gallery](https://www.alfredapp.c
 - **Description**: Jump to a specific day in the macOS Calendar app by typing the day of the week (e.g., "Monday", "Tuesday"). The workflow calculates the date and opens the Calendar app on that day.
 - **Keyword**: Type the day of the week (e.g., `monday`, `tuesday`)
 
-### 4. **Yabai wWindows Workflow**
+### 4. **Yabai Windows Workflow**
 - **Description**: This workflow makes it easier to use windows tiling with `Yabai` adding shortcuts to run actions.
 - **Keyword**: `there's none` It relies in keyboard shortcuts
 
