@@ -4,7 +4,8 @@ This Alfred workflow is designed to improve your window management experience us
 
 <img width="759" alt="YABB" src="https://github.com/user-attachments/assets/6e4c3261-5161-4941-9f39-65c70066a686">
 
-Check out this [video](https://www.youtube.com/watch?v=sFe9BwZ6Q6c) for more info on Yabai or refer to their [GitHub repo](https://github.com/koekeishiya/yabai)
+Check out this [video](https://www.youtube.com/watch?v=sFe9BwZ6Q6c) by EffectiveCo
+for more info on Yabai or refer to their [GitHub repo](https://github.com/koekeishiya/yabai)
 
 ## Prerequisites
 
