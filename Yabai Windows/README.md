@@ -119,6 +119,8 @@ You can customize the hotkeys and modify the Yabai commands by editing the workf
 - Select the **Yabai Windows** workflow.
 - Modify the hotkeys or change the `yabai` commands in the "Run Script" actions.
 
+To see a more complete list of all commands there's [Commands.txt](https://github.com/jjdiazo1/AlfredWorkflows/blob/8eed166a82939b3f251b09900498a384fe8d7cba/Yabai%20Windows/Commands.txt) under this same directory.
+
 ## Troubleshooting
 
 If the hotkeys are not working:
