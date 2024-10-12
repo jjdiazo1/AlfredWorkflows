@@ -6,11 +6,11 @@ This Alfred workflow allows you to quickly jump to a specific day in the Calenda
 
 > Query
 
-<img width="646" alt="Screenshot 2024-10-12 at 4 14 21 PM" src="https://github.com/user-attachments/assets/aa7bb975-2f3f-4832-943b-a7c2f65c6198">
+<img width="646" alt="Screenshot 2024-10-12 at 4 47 51 PM" src="https://github.com/user-attachments/assets/b66d2dd4-74c2-483b-9705-efacfed5e979">
 
 > Result
 
-<img width="292" alt="Screenshot 2024-10-12 at 4 15 16 PM" src="https://github.com/user-attachments/assets/e31b1231-d7b3-461c-a3b1-f0f644f27a08">
+<img width="751" alt="Screenshot 2024-10-12 at 4 53 10 PM" src="https://github.com/user-attachments/assets/af760b6f-dccc-459a-b2b1-c7b858b382f9">
 
 ## Prerequisites
 
