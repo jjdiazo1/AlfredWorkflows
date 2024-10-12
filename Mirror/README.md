@@ -44,9 +44,13 @@ If you need to change the device you're mirroring to (in case you have multiple 
 - Modify the **checkbox** selection in the script (the checkbox index might vary depending on the number of devices available).
 - Adjust delays (`delay 0.5`) if your system is faster or slower to respond to UI interactions.
 
-### Example Customization
+### Example Customization via Apple Script
 
-If you want to mirror to a different device (if it’s the second one in the list), change the line:
+If you want to mirror to a different device (if it’s the second one in the list), go to the apple script in the workflow (there's also the file for reference in this same directory) 
+
+<img width="464" alt="Screenshot 2024-10-12 at 4 08 34 PM" src="https://github.com/user-attachments/assets/705ecae0-0393-42b3-b845-00f9b8eaeec2">
+
+Then change the line:
 
 ```applescript
 set myScreen to checkbox 1 of its scroll area 1 of group 1
@@ -57,3 +61,5 @@ to:
 ``` applescript
 set myScreen to checkbox 2 of its scroll area 1 of group 1
 ```
+
+
